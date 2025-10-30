@@ -103,7 +103,7 @@ To visualize and understand how Indian cities evolved in **air quality, renewabl
 
 ## 🖼️ **Dashboard Preview**
 
-`![Dashboard Preview](link-to-your-dashboard-image.png)`
+`![Dashboard Preview]:[`
 
 ---
 
