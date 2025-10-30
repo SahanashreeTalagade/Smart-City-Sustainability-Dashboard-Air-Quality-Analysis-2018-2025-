@@ -109,7 +109,6 @@ To visualize and understand how Indian cities evolved in **air quality, renewabl
 
 ## 🔗 **Project Links**
 
-* 📊 Power BI Dashboard: [Link if published online]
 * 💻 GitHub Repository: [https://github.com/SahanashreeTalagade](https://github.com/SahanashreeTalagade)
 
 ---
