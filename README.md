@@ -103,7 +103,7 @@ To visualize and understand how Indian cities evolved in **air quality, renewabl
 
 ## 🖼️ **Dashboard Preview**
 
-`![Dashboard Preview]:[`
+`![Dashboard Preview]:[https://github.com/SahanashreeTalagade/Smart-City-Sustainability-Dashboard-Air-Quality-Analysis-2018-2025-/blob/main/smart%20city%20sustainability%20dasbaord%20page%201.png]
 
 ---
 
