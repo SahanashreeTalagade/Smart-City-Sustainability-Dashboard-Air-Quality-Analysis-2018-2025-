@@ -103,7 +103,7 @@ To visualize and understand how Indian cities evolved in **air quality, renewabl
 
 ## 🖼️ **Dashboard Preview**
 
-`![Dashboard Preview]:[https://github.com/SahanashreeTalagade/Smart-City-Sustainability-Dashboard-Air-Quality-Analysis-2018-2025-/blob/main/smart%20city%20sustainability%20dasbaord%20page%201.png]
+* [📥 Download Power BI Template](sustsinable_envi_dashboards.pbit)
 
 ---
 
@@ -112,7 +112,6 @@ To visualize and understand how Indian cities evolved in **air quality, renewabl
 * 💻 GitHub Repository: [https://github.com/SahanashreeTalagade](https://github.com/SahanashreeTalagade)
 
 ---
-
 ## 🏁 **Conclusion**
 
 The **Smart City Sustainability Dashboard** provides a comprehensive, data-driven perspective on India’s urban sustainability journey — showcasing analytical, visualization, and storytelling expertise with Power BI.
